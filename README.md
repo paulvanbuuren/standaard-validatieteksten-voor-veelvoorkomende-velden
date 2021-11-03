@@ -2,9 +2,9 @@
 
 In deze repo verzamel ik voorbeelden en ideeën voor veelvoorkomende velden. Na 25 jaar webbouwen zou je denken dat uitgekristalliseerd is wat een goede validatietekst is. Maar ik ken geen overzicht van dit soort teksten, daarom deze repository. 
 
-Ik doe veel WordPress-werk en dat bepaalt mijn blikveld.
-
 ## Veelvoorkomende formulieren
+(Ik doe veel WordPress-werk en dat bepaalt mijn blikveld)
+
 
 ### Contactformulier
 
